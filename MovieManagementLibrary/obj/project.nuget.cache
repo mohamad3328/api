@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yM4uMIq+14tCNylZj4IyF9tJjtzg4Ld6QGVmj2VxTbwzcbdELdyGWAzAolLu3opknRH6V1Jo2fwGYbC1VZlIEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moh\\source\\repos\\api-m\\MovieManagementLibrary\\MovieManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moh\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

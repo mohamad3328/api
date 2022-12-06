@@ -1,0 +1,12 @@
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.deps.json
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.dll
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\bin\Debug\net6.0\MovieManagementLibrary.pdb
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.AssemblyInfo.cs
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.dll
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\refint\MovieManagementLibrary.dll
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\MovieManagementLibrary.pdb
+C:\Users\moh\source\repos\api-m\MovieManagementLibrary\obj\Debug\net6.0\ref\MovieManagementLibrary.dll
